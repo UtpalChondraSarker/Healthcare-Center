@@ -1,0 +1,15 @@
+.team{
+    background-color: hsl(0, 25%, 98%);
+    border-radius:10px ;
+    margin-bottom: 5px;
+   
+}
+.team img{
+    padding-top: 20px;
+}
+
+.team img:hover{
+    background-color: rgb(32, 138, 224);
+    border-radius: 10px;
+    
+}

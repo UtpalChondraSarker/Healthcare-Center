@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a68a49a.chunk.css",
+    "main.js": "/static/js/main.47370a55.chunk.js",
+    "main.js.map": "/static/js/main.47370a55.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e630346a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e630346a.js.map",
+    "static/js/2.d279c1e9.chunk.js": "/static/js/2.d279c1e9.chunk.js",
+    "static/js/2.d279c1e9.chunk.js.map": "/static/js/2.d279c1e9.chunk.js.map",
+    "static/js/3.4b6f7c6a.chunk.js": "/static/js/3.4b6f7c6a.chunk.js",
+    "static/js/3.4b6f7c6a.chunk.js.map": "/static/js/3.4b6f7c6a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9a68a49a.chunk.css.map": "/static/css/main.9a68a49a.chunk.css.map",
+    "static/js/2.d279c1e9.chunk.js.LICENSE.txt": "/static/js/2.d279c1e9.chunk.js.LICENSE.txt",
+    "static/media/about1.a87e8929.jpg": "/static/media/about1.a87e8929.jpg",
+    "static/media/flat-hand-drawn-hospital.jpg2 (2).27a0291b.jpg": "/static/media/flat-hand-drawn-hospital.jpg2 (2).27a0291b.jpg",
+    "static/media/healthcare-medical-concept.jpg1 (2).82df108b.jpg": "/static/media/healthcare-medical-concept.jpg1 (2).82df108b.jpg",
+    "static/media/img.825f7300.jpg": "/static/media/img.825f7300.jpg",
+    "static/media/men-with-protection.jpg3.jpg1 (2).dd9fd52a.jpg": "/static/media/men-with-protection.jpg3.jpg1 (2).dd9fd52a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e630346a.js",
+    "static/js/2.d279c1e9.chunk.js",
+    "static/css/main.9a68a49a.chunk.css",
+    "static/js/main.47370a55.chunk.js"
+  ]
+}

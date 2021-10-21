@@ -1,0 +1,33 @@
+[ 
+    {  "id":"1",
+        "img":"http://kamleshyadav.com/healthcare/images/team/team_member4.png",
+        "name":"js.Harry",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {  "id":"2",
+        "img":"http://kamleshyadav.com/healthcare/images/team/team_member5.png",
+        "name":" Sr.Morgan",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {  "id":"3",
+        "img":"http://kamleshyadav.com/healthcare/images/team/team_member7.png",
+        "name":"Joy Carry",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {  "id":"4",
+        "img":"http://kamleshyadav.com/healthcare/images/team/team_member6.png",
+        "name":"Mister Jaky",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {  "id":"5",
+        "img":"http://kamleshyadav.com/healthcare/images/team/team_member8.png",
+        "name":" joss.battler",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {  "id":"6",
+        "img":"http://kamleshyadav.com/healthcare/images/team/team_member13.png",
+        "name":"hankey",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+
+]

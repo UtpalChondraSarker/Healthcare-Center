@@ -1,0 +1,97 @@
+{
+    "employees":[
+        {
+            "gender":"male",
+            "name":"js kksy",
+            "email":"afglka45@.gmail.com",
+            "phone":"89345897",
+            "location":{
+                "street":"9434 road",
+                "city":"kilcoole"
+            },
+            "username":"jk roy",
+            "login":{
+                "id":"1"
+            }
+
+        },
+
+        {
+            "gender":"male",
+            "name":"js kksy",
+            "email":"afglka45@.gmail.com",
+            "phone":"89345897",
+            "location":{
+                "street":"9434 road",
+                "city":"kilcoole"
+            },
+            "username":"jk roy",
+            "login":{
+                "id":"2"
+            }
+
+        },
+
+        {
+            "gender":"male",
+            "name":"js kksy",
+            "email":"afglka45@.gmail.com",
+            "phone":"89345897",
+            "location":{
+                "street":"9434 road",
+                "city":"kilcoole"
+            },
+            "username":"jk roy",
+            "login":{
+                "id":"3"
+            }
+
+        },
+
+        {
+            "gender":"male",
+            "name":"js kksy",
+            "email":"afglka45@.gmail.com",
+            "phone":"89345897",
+            "location":{
+                "street":"9434 road",
+                "city":"kilcoole"
+            },
+            "username":"jk roy",
+            "login":{
+                "id":"4"
+            }
+
+        },
+        {
+            "gender":"male",
+            "name":"js kksy",
+            "email":"afglka45@.gmail.com",
+            "phone":"89345897",
+            "location":{
+                "street":"9434 road",
+                "city":"kilcoole"
+            },
+            "username":"jk roy",
+            "login":{
+                "id":"5"
+            }
+
+        },
+        {
+            "gender":"male",
+            "name":"js kksy",
+            "email":"afglka45@.gmail.com",
+            "phone":"89345897",
+            "location":{
+                "street":"9434 road",
+                "city":"kilcoole"
+            },
+            "username":"jk roy",
+            "login":{
+                "id":"6"
+            }
+
+        }
+    ]
+}

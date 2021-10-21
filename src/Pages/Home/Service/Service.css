@@ -1,0 +1,15 @@
+.service img{
+    width: 250px;
+    margin: 20px;
+    border-radius: 10px;
+   
+}
+
+.service{
+    background-color: rgb(249, 252, 252);
+    border-radius: 20px;
+}
+
+.button{
+    margin-bottom: 8px;
+}
